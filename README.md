@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello my name is juan manuel contreras I am a junior developer with a lot of desire to learn. here I show my knowledge and repositories in different technologies.
+Hello my name is juan manuel contreras I am a junior developer with a lot of desire to learn. here I show my knowledge and repositories in different technologies.I like to improve a lot in my code.
 
 ![Alt Text](https://github.com/JcontrerasV1997/JcontrerasV1997/blob/main/Visual%20Studio%20Code%202019_20px.png)
 ![Alt Text](https://github.com/JcontrerasV1997/JcontrerasV1997/blob/main/c_sharp_logo_20px.png)
