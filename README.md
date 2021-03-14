@@ -5,6 +5,7 @@ Hello my name is juan manuel contreras I am a junior developer with a lot of des
 
 ![Alt Text](https://github.com/JcontrerasV1997/JcontrerasV1997/blob/main/Colombia_50px.png) 
 
+
 ![Alt Text](https://github.com/JcontrerasV1997/JcontrerasV1997/blob/main/Visual%20Studio%20Code%202019_20px.png)
 ![Alt Text](https://github.com/JcontrerasV1997/JcontrerasV1997/blob/main/c_sharp_logo_20px.png)
 ![Alt Text](https://github.com/JcontrerasV1997/JcontrerasV1997/blob/main/javascript_20px.png)
@@ -12,7 +13,7 @@ Hello my name is juan manuel contreras I am a junior developer with a lot of des
 ![Alt Text](https://github.com/JcontrerasV1997/JcontrerasV1997/blob/main/react_20px.png)
 ![Alt Text](https://github.com/JcontrerasV1997/JcontrerasV1997/blob/main/sql_20px.png)
 
-
+```
 
 
 
