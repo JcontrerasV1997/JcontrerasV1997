@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Hello my name is juan manuel contreras I am a junior developer with a lot of desire to learn. here I show my knowledge and repositories in different technologies.
 <!--
 **JcontrerasV1997/JcontrerasV1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
