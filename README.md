@@ -15,7 +15,7 @@ Hello my name is juan manuel contreras I am a junior developer with a lot of des
                                 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a></p>
                                 
                                 
-                                <a href="https://www.flaticon.com/free-icons/mysql" title="mysql icons">Mysql icons created by Freepik - Flaticon</a>
+                             
                               
                                 
                                 
