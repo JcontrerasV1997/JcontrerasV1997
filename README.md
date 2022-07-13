@@ -17,7 +17,7 @@ Hello my name is juan manuel contreras I am a junior developer with a lot of des
 </a>
 
 <a href="https://spring.io/projects/spring-framework" target="_blank" rel="noreferrer">
-   <img src="https://cdn.icon-icons.com/icons2/3398/PNG/512/boot_spring_logo_icon_214693.png" width="36" height="36" alt="mysql" />
+   <img src="https://cdn.icon-icons.com/icons2/3398/PNG/512/boot_spring_logo_icon_214693.png" alt="mysql" />
 </a>
 
 
