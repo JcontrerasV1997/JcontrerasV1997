@@ -12,15 +12,14 @@ Hello my name is juan manuel contreras I am a junior developer with a lot of des
                                 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
                                 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_logo_icon_169941.png" width="50" height="50" alt="mysql" />
+   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_logo_icon_169941.png" width="40" height="40" alt="mysql" />
 </a>
-                             
-  </p> 
-                                
-
 <a href="https://spring.io/projects/spring-framework" target="_blank" rel="noreferrer">
-   <img src="https://cdn.icon-icons.com/icons2/3398/PNG/512/boot_spring_logo_icon_214693.png" alt="mysql" />
-</a>
+   <img src="https://www.clipartmax.com/png/middle/30-300342_spring-data-team-spring-framework-icon.png" alt="spring" />
+</a>                             
+  </p> 
+                              
+
 
 
 
