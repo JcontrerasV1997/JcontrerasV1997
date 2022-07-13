@@ -7,12 +7,10 @@ Hello my name is juan manuel contreras I am a junior developer with a lot of des
    
 
 
-![Alt Text](https://github.com/JcontrerasV1997/JcontrerasV1997/blob/main/Visual%20Studio%20Code%202019_20px.png)
-![Alt Text](https://github.com/JcontrerasV1997/JcontrerasV1997/blob/main/c_sharp_logo_20px.png)
-![Alt Text](https://github.com/JcontrerasV1997/JcontrerasV1997/blob/main/javascript_20px.png)
-![Alt Text](https://github.com/JcontrerasV1997/JcontrerasV1997/blob/main/php_logo_20px.png)
-![Alt Text](https://github.com/JcontrerasV1997/JcontrerasV1997/blob/main/react_20px.png)
-![Alt Text](https://github.com/JcontrerasV1997/JcontrerasV1997/blob/main/sql_20px.png)
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+                                <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
+
 
 ```
 ```
