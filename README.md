@@ -16,8 +16,16 @@ Hello my name is juan manuel contreras I am a junior developer with a lot of des
 </a>
 <a href="https://spring.io/projects/spring-framework" target="_blank" rel="noreferrer">
    <img src="https://cdn.imgbin.com/24/23/24/imgbin-spring-framework-software-framework-java-application-framework-web-framework-java-hmV4fY4f3v86tTt8XJ1w4snVM.jpg" width="50" height="40" alt="spring" />
-</a>                             
+</a>
+
+<a href="https://www.oracle.com/"_blank" rel="noreferrer">
+   <img src="https://www.svgrepo.com/show/354152/oracle.svg" width="50" height="40" alt="oracle" />
+</a>
+
   </p> 
+  
+  
+  
                               
 
 
